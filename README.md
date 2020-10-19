@@ -2,7 +2,7 @@
 
 Autolink the Links on your sebsite Easily
 
-* Small PAckage
+* Small Package
 * FREE
 * Easy Install
 

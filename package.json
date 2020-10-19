@@ -1,6 +1,6 @@
 {
   "name": "fasterautolink",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "repository": "https://github.com/steviebeenz/FasterAutoLink.git",
   "author": "Steviebeenz",
