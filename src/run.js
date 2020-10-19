@@ -1,7 +1,7 @@
 import $ from 'jquery'
 
 $(document).ready(function () {
-  $('li:not([class!=""])').each(function () {
+  $('li:not([class="noautolink"])').each(function () {
     var that = $(this)
     var text = that.html()
 
